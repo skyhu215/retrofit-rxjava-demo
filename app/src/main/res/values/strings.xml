@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">retrofit-RxJava-Demo</string>
+    <string name="btn_request">retrofit-RxJava-Demo</string>
+</resources>
